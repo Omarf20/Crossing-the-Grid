@@ -37,9 +37,7 @@ A two-player board strategy game created as a final group project for **MTST195*
 
 ## Play online
 
-[Play here →](https://yourusername.github.io/crossing-the-grid)
-
-*(Replace with your actual GitHub Pages URL after deployment)*
+[Play here →](https://omarf20.github.io/Crossing-the-Grid/)
 
 ---
 
